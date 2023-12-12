@@ -2,7 +2,7 @@
   "name": "wt-js-02-color-switcher-timer",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://jerebcov-dmutro.github.io/wt-js-02-color-switcher-timer/src/index.html",
+  "homepage": "https://jerebcov-dmutro.github.io/wt-js-02-color-switcher-timer",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /wt-js-02-color-switcher-timer/"
